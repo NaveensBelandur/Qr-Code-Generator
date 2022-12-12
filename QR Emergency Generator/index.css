@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
+
+
+*{
+  padding:0px;
+  margin:0px;
+}
+
+body{
+  background-color: #1b1b32;
+}
+#navbar{
+  border: 1px solid red;
+  height: 35px;
+  background: red;
+  text-align: center;
+  font-family: 'Viaoda Libre', cursive;
+  color: white;
+  font-size: 20px;
+  
+}
+
+.form{
+  padding: 50px 80px 20px 80px;
+  border: 1px solid white;
+  width: 500px;
+  margin-left: 280px;
+  background-color: white;
+  margin-top: 50px;
+  background-color: #1b1b32;
+
+}
+
+
+
+label{
+  font-family: 'Zen Loop', cursive;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+input{
+  width:100%;
+  height:30px;
+  margin-bottom: 15px;
+}
+
+textarea{
+  width:100%;
+  height:80px;
+  margin-bottom: 15px;
+}
+
+
+#btn{
+  width: 270px;
+  height: 35px;
+  margin-left: 120px;
+  font-size: 25px;
+  font-family: 'Zen Loop', cursive;
+  font-weight: bold;
+}
+
+
+#btn:hover{
+  background-color: red;
+}
+
+
+ul{
+  list-style-type: georgian;
+  font-family: 'Zen Loop', cursive;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+
+.qrcodee{
+  margin-left: 500px;
+  margin-top: 50px;
+}
+#clear{
+  width: 200px;
+  margin-top: 20px;
+  font-size: 25px;
+  font-family: 'Zen Loop', cursive;
+}
+
